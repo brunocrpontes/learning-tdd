@@ -1,0 +1,9 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "learning tdd with Willian Justen course",
+  "main": "index.js",
+  "repository": "https://github.com/brunocrpontes/learning-tdd.git",
+  "author": "Bruno Pontes",
+  "license": "MIT"
+}
