@@ -2,7 +2,8 @@
   "name": "tdd",
   "version": "1.0.0",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint **/*.js",
+    "lint": "./node_modules/.bin/eslint source/*",
+    "inspect": "jsinspect .",
     "prepush": "yarn lint"
   },
   "description": "learning tdd with Willian Justen course",
